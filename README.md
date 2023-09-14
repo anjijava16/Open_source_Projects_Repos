@@ -2,4 +2,9 @@
 ## DataprocessingFramework
 1. https://github.com/awslabs/aws-glue-apache-hudi-operational-data-processing-framework/
 
+## DE,MLOPS and ML
+1. https://datatalksclub-projects.streamlit.app/
+2. https://github.com/dimzachar/DataTalksClub-Projects
+   
+
    
