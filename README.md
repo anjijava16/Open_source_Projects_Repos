@@ -5,6 +5,7 @@
 ## DE,MLOPS and ML
 1. https://datatalksclub-projects.streamlit.app/
 2. https://github.com/dimzachar/DataTalksClub-Projects
+3. https://github.com/JoseBlancoSiles/reddit-API/tree/main
    
 
    
