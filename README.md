@@ -6,7 +6,8 @@
 1. https://datatalksclub-projects.streamlit.app/
 2. https://github.com/dimzachar/DataTalksClub-Projects
 3. https://github.com/adidas/lakehouse-engine
-4. https://github.com/JoseBlancoSiles/reddit-API/tree/main
+4. https://github.com/adidas/m3d-api/blob/master/m3d/hadoop/emr/s3_table.py
+5. https://github.com/JoseBlancoSiles/reddit-API/tree/main
    
 
    
