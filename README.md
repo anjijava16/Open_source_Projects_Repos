@@ -11,8 +11,9 @@
 6. https://github.com/qubole/spark-state-store/tree/master
 7. https://discover.qubole.com/notebook_examples/15/view_standalone#/
 8. https://docs.qubole.com/en/latest/user-guide/engines/spark/spark-redshift-connector.html
-9. https://github.com/YotpoLtd/metorikku/tree/master
-10. https://github.com/JoseBlancoSiles/reddit-API/tree/main
+9. https://docs.qubole.com/en/latest/user-guide/engines/spark/sparklens.html
+10. https://github.com/YotpoLtd/metorikku/tree/master
+11. https://github.com/JoseBlancoSiles/reddit-API/tree/main
    
 
    
