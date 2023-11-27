@@ -9,8 +9,9 @@
 4. https://github.com/adidas/m3d-api/blob/master/m3d/hadoop/emr/s3_table.py
 5. https://docs.qubole.com/en/latest/user-guide/engines/spark/structured-streaming.html
 6. https://github.com/qubole/spark-state-store/tree/master
-7. https://github.com/YotpoLtd/metorikku/tree/master
-8. https://github.com/JoseBlancoSiles/reddit-API/tree/main
+7. https://discover.qubole.com/notebook_examples/15/view_standalone#/
+8. https://github.com/YotpoLtd/metorikku/tree/master
+9. https://github.com/JoseBlancoSiles/reddit-API/tree/main
    
 
    
